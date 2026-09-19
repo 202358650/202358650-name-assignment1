@@ -1,5 +1,3 @@
-# 202358650-name-assignment1
-
 # Personal Portfolio - Assignment 1
 
 A responsive personal portfolio web application built with semantic HTML5, modern CSS3, and vanilla JavaScript. This site showcases selected projects, provides background information, and includes interactive features such as theme toggling and dynamic greetings.
