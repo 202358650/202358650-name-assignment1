@@ -9,8 +9,8 @@ A responsive personal portfolio web application built with semantic HTML5, moder
 - **About Section:** Brief bio, professional tagline, and an automated time-aware greeting.
 - **Projects Showcase:** Responsive CSS Grid layout displaying project cards with tags, descriptions, and media containers.
 - **Contact Form:** Clean input form with client-side JavaScript validation and inline submission feedback.
-- **Dark / Light Mode:** Instant theme switcher using CSS custom properties (variables) and `data-theme` state[cite: 1].
-- **Fully Responsive:** Adapts smoothly across mobile, tablet, and desktop viewports using CSS Grid, Flexbox, and media queries[cite: 1].
+- **Dark / Light Mode:** Instant theme switcher using CSS custom properties (variables) and `data-theme`.
+- **Fully Responsive:** Adapts smoothly across mobile, tablet, and desktop viewports using CSS Grid, Flexbox, and media queries.
 
 ---
 
